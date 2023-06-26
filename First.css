@@ -1,0 +1,50 @@
+body{
+    font-size: 25px;   
+    background-color: rgba(255,255,255,0.15);
+    background-blend-mode: lighten;   
+   color: rgb(255, 255, 255);
+background-image:url('background.webp');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+.author{
+text-align: right;
+font-size: x-large;
+font-weight: bold;
+color:rgb(251, 5, 13)
+}
+.title{
+margin-top: -100px;
+text-align: center;
+}
+.questions{
+color:rgb(221, 236, 3);
+}
+.introduction{
+font-weight: bold;
+font-size: 20px;
+color:red;
+}
+.container{
+position: relative;
+}
+.symbol{
+font-style: italic;
+margin-top: -85px;
+margin-left: 40px;
+position: absolute;
+}
+
+.logo {
+margin-left: 20px;
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+ overflow: hidden;
+}
+
+.logo img {
+ width: 100%;
+ height: auto;
+}
